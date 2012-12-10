@@ -1,6 +1,8 @@
 #id-diff
 Diff arrays of identifyable objects.
 
+The output can be used to do 3-way merges with [id-merge](https://github.com/mirkok/id-merge).
+
 ``` js
 var origin = [
   {id: 1, value: 1},
